@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="Android">Android</string>
+    <string name="Ios">IOS</string>
+    <string name="Numero">ID</string>
+    <string name="Plateado">Silver</string>
+    <string name="Ram">Ram</string>
+    <string name="Rosado">Pink</string>
+    <string name="Sistema">operative system</string>
+    <string name="apple">Iphone</string>
+    <string name="blanco">white</string>
+    <string name="color">Color</string>
+    <string name="crear_celulares">Add</string>
+    <string name="guardar">Save</string>
+    <string name="huawei">Huawei</string>
+    <string name="limpiar">Clean</string>
+    <string name="listar_celulares">Reports</string>
+    <string name="marca">Brand</string>
+    <string name="mensaje_guardado">Was Succesfully</string>
+    <string name="negro">Black</string>
+    <string name="nokia">Nokia</string>
+    <string name="precio">Price</string>
+    <string name="ram">Ram</string>
+    <string name="reporte1">Phone Samsung</string>
+    <string name="reporte2">IPhones Phones Black</string>
+    <string name="titulo">Tittle</string>
+    <string name="samsung">Samsung</string>
+    <string name="reporte3">Average Phone Nokia</string>
+
+</resources>
